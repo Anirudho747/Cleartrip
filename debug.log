@@ -1,0 +1,7 @@
+[0520/195751.140:ERROR:process_info.cc(359)] UncheckedAllocate
+[0520/195757.423:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/164428.843:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/164901.253:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/164939.917:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/164940.103:ERROR:process_info.cc(359)] UncheckedAllocate
+[0521/165015.341:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
